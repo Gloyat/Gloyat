@@ -3,3 +3,12 @@
 }
 .pad{padding-left: 3rem;}
 .mag{margin-top:10rem;}
+.bgcolor{
+    background-color: rgb(114, 114, 158);
+    height: 10vh;
+    margin-top: 10rem;
+    text-align: center;
+}
+.padtop{
+    padding-top: 1.5rem;
+}
